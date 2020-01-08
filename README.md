@@ -23,4 +23,4 @@ Multipart form data upload directory is specified in the application.properties 
 
 | Populate Db Api                                | Get Group Products API                         |
 | ---------------------------------------------- | ---------------------------------------------- |
-| ![Populate](./resources/populateDb.png)        | ![Group](./resources/getGroupProducts)         |
+| ![Populate](./resources/populateDb.png)        | ![Group](./resources/getGroupProducts.png)         |
